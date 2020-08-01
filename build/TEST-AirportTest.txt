@@ -1,0 +1,60 @@
+Testsuite: AirportTest
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.092 sec
+------------- Standard Output ---------------
+Booking for John Smith successful with PNR 06AB00
+Booking for Bob Miller successful with PNR 07AF00
+Booking for Mary Garcia successful with PNR 06AB01
+Booking for Maria Smith successful with PNR 09AE00
+Booking for Geeta Patil successful with PNR 02CA00
+Booking for Aditi Rao successful with PNR 07AF01
+Booking for Rita Singth successful with PNR 07AF02
+Booking for Rahul Shah successful with PNR 06AB02
+Booking for Harsh Mittal successful with PNR 02CA01
+Booking for Raj Patel successful with PNR 05EB00
+Booking for John Smith successful with PNR 06AB00
+Booking for Bob Miller successful with PNR 07AF00
+Booking for Mary Garcia successful with PNR 06AB01
+Booking for Maria Smith successful with PNR 09AE00
+Booking for Geeta Patil successful with PNR 02CA00
+Booking for Aditi Rao successful with PNR 07AF01
+Booking for Rita Singth successful with PNR 07AF02
+Booking for Rahul Shah successful with PNR 06AB02
+Booking for Harsh Mittal successful with PNR 02CA01
+Booking for Raj Patel successful with PNR 05EB00
+Booking for John Smith successful with PNR 06AB00
+Booking for Bob Miller successful with PNR 07AF00
+Booking for Mary Garcia successful with PNR 06AB01
+Booking for Maria Smith successful with PNR 09AE00
+Booking for Geeta Patil successful with PNR 02CA00
+Booking for Aditi Rao successful with PNR 07AF01
+Booking for Rita Singth successful with PNR 07AF02
+Booking for Rahul Shah successful with PNR 06AB02
+Booking for Harsh Mittal successful with PNR 02CA01
+Booking for Raj Patel successful with PNR 05EB00
+Booking for John Smith successful with PNR 06AB00
+Booking for Bob Miller successful with PNR 07AF00
+Booking for Mary Garcia successful with PNR 06AB01
+Booking for Maria Smith successful with PNR 09AE00
+Booking for Geeta Patil successful with PNR 02CA00
+Booking for Aditi Rao successful with PNR 07AF01
+Booking for Rita Singth successful with PNR 07AF02
+Booking for Rahul Shah successful with PNR 06AB02
+Booking for Harsh Mittal successful with PNR 02CA01
+Booking for Raj Patel successful with PNR 05EB00
+Booking for John Smith successful with PNR 06AB00
+Booking for Bob Miller successful with PNR 07AF00
+Booking for Mary Garcia successful with PNR 06AB01
+Booking for Maria Smith successful with PNR 09AE00
+Booking for Geeta Patil successful with PNR 02CA00
+Booking for Aditi Rao successful with PNR 07AF01
+Booking for Rita Singth successful with PNR 07AF02
+Booking for Rahul Shah successful with PNR 06AB02
+Booking for Harsh Mittal successful with PNR 02CA01
+Booking for Raj Patel successful with PNR 05EB00
+------------- ---------------- ---------------
+
+Testcase: generateAllReports took 0.037 sec
+Testcase: bookTickets took 0.002 sec
+Testcase: loadFlightInfo took 0.001 sec
+Testcase: generateFlightReport took 0.001 sec
+Testcase: checkPassenger took 0.003 sec

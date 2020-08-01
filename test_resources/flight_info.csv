@@ -1,0 +1,10 @@
+flightNumber,arilineName,maximumCapacity,source,destination
+1,INDIGO,50,A,D
+2,SPICE,30,C,A
+3,JET,40,D,A
+4,INDIGO,50,C,B
+5,GO,10,E,B
+6,SPICE,50,A,B
+9,AIR,30,A,E
+7,SPICE,15,A,F
+11,AIR-INDIA,0,A,F

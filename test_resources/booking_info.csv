@@ -1,0 +1,13 @@
+firstName,lastName,age,gender,source,destination
+John,Smith,34,m,A,B
+Bob,Miller,23,m,A,F
+Mary,Garcia,54,f,A,B
+Maria,Smith,65,f,A,E
+James,Johnson,22,m,C,F 
+Geeta,Patil,18,f,C,A
+Aditi,Rao,29,f,A,F
+Rita,Singth,35,f,A,F
+Rahul,Shah,34,m,A,B
+Harsh,Mittal,37,m,C,A
+Raj,Patel,28,m,E,B
+David,Britt,32,m,A,C

@@ -1,0 +1,9 @@
+----------------------------------
+             TICKET               
+PNR: 07AF02
+AIRLINE_NAME: SPICE FLIGHT_NUMBER: 7
+FROM A TO F
+NAME: Rita Singth
+AGE: 35 GENDER: female
+SEAT_NUMBER: 2
+-----------------------------------
